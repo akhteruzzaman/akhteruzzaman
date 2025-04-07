@@ -13,9 +13,10 @@ I love building beautiful, scalable web applications and learning new technologi
 - 📊 Data Analysis: Pandas, Matplotlib, Spreadsheets, SQL
 - 🤖 AI & Automation: Deep interest in AI Agents, MCP Server, n8n
 
+## 🚀 Thanks for visiting my Profile
 ![Visitor Count](https://komarev.com/ghpvc/?username=akhteruzzaman&style=for-the-badge&color=0E75B6)
 
-## 🚀 
+
 
 ### 🖥️ Skills Gallery
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
