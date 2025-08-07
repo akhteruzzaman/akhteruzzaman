@@ -4,14 +4,14 @@ I'm a **Full Stack Web Developer** specializing in **Laravel**, **Vue.js**, and 
 I love building beautiful, scalable web applications and learning new technologies every day.
 
 ## 🚀 Skills
-- 🛠️ Languages: PHP, JavaScript, Python, SQL, R
-- 🔥 Frameworks: Laravel, Vue.js, Nuxt.js
-- 🖥️ CMS Platforms: WordPress, Moodle, Shopify
-- 🎨 Frontend Technologies: Tailwind CSS, DevExtreme, Vuetify
-- ☁️ Cloud Services: AWS EC2, RDS
-- 🐳 Tools & DevOps: Docker, Kubernetes, Git, GitHub Actions
-- 📊 Data Analysis: Pandas, Matplotlib, Spreadsheets, SQL
-- 🤖 AI & Automation: Deep interest in AI Agents, MCP Server, n8n
+- 🛠️ Languages: PHP, JavaScript, Python, SQL
+- 🔥 Frameworks: Laravel, Vue.js, Nuxt.js, Django
+- 🖥️ CMS Platforms: WordPress Theme Development, Moodle Plugin Development, Shopify App
+- 🎨 UI Technologies: DevExtreme, Vuetify
+- ☁️ Cloud Services: AWS, EC2, RDS
+- 🐳 DevOps: Docker, Git, GitHub Actions, Prometheus, Grafana
+- 📊 Data Analysis: Pandas, Matplotlib, Spreadsheets, SQL, Tableau
+- 🤖 AI & Automation: Deep interest in AI Agents, PyTorch, n8n
 
 ## 🚀 Thanks for visiting my Profile
 ![Visitor Count](https://komarev.com/ghpvc/?username=akhteruzzaman&style=for-the-badge&color=0E75B6)
