@@ -5,7 +5,7 @@ I love building beautiful, scalable web applications and learning new technologi
 
 ## 🚀 Skills
 - 🛠️ Languages: PHP, JavaScript, Python, SQL
-- 🔥 Frameworks: Laravel, Vue.js, Nuxt.js, Django
+- 🔥 Frameworks: Laravel, Vue.js, Nuxt.js, Django, Frappe
 - 🖥️ CMS Platforms: WordPress Theme Development, Moodle Plugin Development, Shopify App
 - 🎨 UI Technologies: DevExtreme, Vuetify
 - ☁️ Cloud Services: AWS, EC2, RDS, Firebase
