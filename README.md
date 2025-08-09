@@ -9,7 +9,7 @@ I love building beautiful, scalable web applications and learning new technologi
 - 🖥️ CMS Platforms: WordPress Theme Development, Moodle Plugin Development, Shopify App
 - 🎨 UI Technologies: DevExtreme, Vuetify
 - ☁️ Cloud Services: AWS, Firebase
-- 🐳 DevOps: Docker, Git, GitHub Actions, Prometheus, Grafana
+- 🐳 DevOps: Docker, CI/CD Pipeline, Git, GitHub Actions, Prometheus, Grafana
 - 📊 Data Analysis: Pandas, Matplotlib, Spreadsheets, SQL, Tableau
 - 🤖 AI & Automation: Deep interest in AI Agents, PyTorch, n8n
 
