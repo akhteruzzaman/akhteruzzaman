@@ -8,7 +8,7 @@ Strong believer in lifelong learning and creating impactful digital experiences 
 ## 🚀 Skills
 - 🛠️ Languages: PHP, JavaScript, Python, SQL
 - 🔥 Frameworks: Laravel, Vue.js, Nuxt.js, React, Next.js, Django, Frappe
-- 🖥️ CMS Platforms: WordPress Theme Development, Moodle Plugin Development, Shopify App
+- 🖥️ CMS Platforms: WordPress Theme Development, Moodle Plugin Development
 - 🎨 UI Technologies: DevExtreme, Vuetify
 - ☁️ Cloud Services: AWS, Firebase
 - 🐳 DevOps: Docker, CI/CD Pipeline, Git, GitHub Actions, Prometheus, Grafana
