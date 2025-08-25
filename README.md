@@ -1,7 +1,9 @@
 # Hi, I'm Akhteruzzaman 👋
 
-I'm a **Full Stack Web Developer** specializing in **Laravel**, **Vue.js**, and **WordPress**.  
-I love building beautiful, scalable web applications and learning new technologies every day.
+I'm a full Stack Developer with seven years of hands-on expertise. 
+Dedicated to building robust, user-focused solutions. 
+Enthusiastic about modern tech stacks, programming, DevOps, AI, and data analysis. 
+Strong believer in lifelong learning and creating impactful digital experiences from scratch.
 
 ## 🚀 Skills
 - 🛠️ Languages: PHP, JavaScript, Python, SQL
